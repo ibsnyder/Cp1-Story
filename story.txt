@@ -9,7 +9,11 @@ period 5
 period 6
 period 7
 period 8
-I went downtown
-I ate dinner
-I went home
+I went to my friends house
+I went downtown 
+I ate pizza for dinner
+I took the train home 
+I watched Netflix
+I brushed my teeth
+I washed my face
 I went to sleep
